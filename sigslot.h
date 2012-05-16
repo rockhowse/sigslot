@@ -1,5 +1,3 @@
-// TODO: go through coding style, create and test an example, create repository
-
 /*
  
  sigslot.h: Signal/Slot classes

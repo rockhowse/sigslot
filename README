@@ -1,0 +1,8 @@
+Patched version of Sarah Thompson's sigslot implementation.
+
+A few things had to be changed in order to make it compile in gcc 4.0+.
+
+TODO:
+- fix the coding style
+- make an example
+- try it on more compilers?
