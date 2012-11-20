@@ -557,7 +557,7 @@ namespace sigslot {
     public:
         typedef std::list<_connection_base1<arg1_type, mt_policy> *>  connections_list;
         
-        _signal_base1();
+        _signal_base1() {}
         
         _signal_base1(_signal_base1<arg1_type, mt_policy> const& s) : _signal_base<mt_policy>(s)
         {
