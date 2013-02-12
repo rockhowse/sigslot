@@ -2,7 +2,7 @@ Patched version of Sarah Thompson's sigslot implementation.
 
 A few things had to be changed in order to make it compile in gcc 4.0+.
 
+2013-02-12: Works with gcc 4.7.1 (tdm) on Windows 7 using C++11
+
 TODO:
-- fix the coding style
-- make an example
 - try it on more compilers?
